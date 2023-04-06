@@ -8,6 +8,7 @@ metadata:
     github.com/project-slug: debsmita1/app-1
     backstage.io/kubernetes-id: test-backstage
     backstage.io/kubernetes-namespace: deb-test
+    tektonci/build-namespace: deb-test
 spec:
   type: service
   lifecycle: unknown
