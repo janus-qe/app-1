@@ -5,7 +5,7 @@ metadata:
   labels: 
     component: backstage-workloads
   annotations:
-    #github.com/project-slug: debsmita1/app-1
+    github.com/project-slug: debsmita1/app-1
     backstage.io/kubernetes-id: test-backstage
     backstage.io/kubernetes-namespace: janus-idp
     janus-idp.io/tekton-enabled: 'true'
