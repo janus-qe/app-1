@@ -6,7 +6,7 @@ metadata:
     component: backstage-workloads
   annotations:
     github.com/project-slug: debsmita1/app-1
-    backstage.io/kubernetes-id: test-backstage
+    backstage.io/kubernetes-id: janus-idp
     backstage.io/kubernetes-namespace: janus-idp
     janus-idp.io/tekton-enabled: 'true'
     #dev.azure.com/project-repo: my-project/my-repo
