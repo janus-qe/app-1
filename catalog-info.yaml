@@ -10,7 +10,7 @@ metadata:
     backstage.io/kubernetes-id: test-backstage
     backstage.io/kubernetes-namespace: deb-test
     backstage.io/techdocs-ref: url:https://github.com/janus-idp/backstage-showcase
-    janus-idp.io/tekton-enabled: 'true'
+    backstage.io/tekton-enabled: 'true'
     #dev.azure.com/project-repo: my-project/my-repo
 spec:
   type: service
