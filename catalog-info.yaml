@@ -9,7 +9,7 @@ metadata:
     quay.io/repository-slug: janus-idp/backstage-showcase
     backstage.io/kubernetes-id: test-backstage
     backstage.io/kubernetes-namespace: deb-test
-    backstage.io/techdocs-ref: url:https://github.com/janus-idp/backstage-showcase
+    backstage.io/techdocs-ref: dir:./README.adoc
     backstage.io/tekton-enabled: 'true'
     #dev.azure.com/project-repo: my-project/my-repo
 spec:
