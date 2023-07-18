@@ -4,6 +4,9 @@ metadata:
   name: test-backstage
   labels: 
     component: backstage-workloads
+  links:
+    - title: Janus Website
+      url: https://janus-idp.io
   annotations:
     #github.com/project-slug: debsmita1/app-1
     quay.io/repository-slug: janus-idp/backstage-showcase
