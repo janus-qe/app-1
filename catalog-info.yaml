@@ -4,9 +4,6 @@ metadata:
   name: test-backstage
   labels: 
     component: backstage-workloads
-  links:
-    - title: Janus Website
-      url: https://janus-idp.io
   annotations:
     #github.com/project-slug: debsmita1/app-1
     quay.io/repository-slug: janus-idp/backstage-showcase
@@ -14,6 +11,7 @@ metadata:
     #backstage.io/kubernetes-namespace: deb-test
     backstage.io/techdocs-ref: dir:./README.adoc
     janus-idp.io/tekton-enabled: 'true'
+    backstage.io/techdocs-ref: dir:.
     #dev.azure.com/project-repo: my-project/my-repo
 spec:
   type: service
