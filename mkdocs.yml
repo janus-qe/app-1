@@ -1,0 +1,7 @@
+site_name: 'app1-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
