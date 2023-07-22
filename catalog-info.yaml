@@ -8,7 +8,7 @@ metadata:
     #github.com/project-slug: debsmita1/app-1
     quay.io/repository-slug: janus-idp/backstage-showcase
     backstage.io/kubernetes-id: test-backstage
-    #backstage.io/kubernetes-namespace: deb-test
+    backstage.io/kubernetes-namespace: deb-test
     janus-idp.io/tekton-enabled: 'true'
     backstage.io/techdocs-ref: dir:.
     #dev.azure.com/project-repo: my-project/my-repo
