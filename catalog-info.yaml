@@ -13,6 +13,7 @@ metadata:
     janus-idp.io/tekton-enabled: 'true'
     backstage.io/techdocs-ref: dir:.
     #dev.azure.com/project-repo: my-project/my-repo
+    jfrog-artifactory/image-name: guy-docker-dev,
 spec:
   type: service
   lifecycle: unknown
