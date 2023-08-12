@@ -1,4 +1,6 @@
 site_name: 'app1-docs'
+repo_url: https://github.com/debsmita1/app-1
+# edit_uri: edit/main/docs
 
 nav:
   - Home: index.md
