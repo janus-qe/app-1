@@ -2,6 +2,8 @@ site_name: 'app1-docs'
 
 nav:
   - Home: index.md
+  - Guide:
+    - Installation: app/install.md
 
 plugins:
   - techdocs-core
