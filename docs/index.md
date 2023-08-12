@@ -1,1 +1,1 @@
-This is the basic documentation
+This is the basic documentation for the app
