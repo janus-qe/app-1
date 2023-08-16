@@ -14,6 +14,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     #dev.azure.com/project-repo: my-project/my-repo
     'jfrog-artifactory/image-name': 'test'
+    nexus-repository-manager/docker.image-name: sonatype/nexus3
 spec:
   type: service
   lifecycle: unknown
