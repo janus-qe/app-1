@@ -8,7 +8,7 @@ metadata:
     github.com/project-slug: janus-idp/backstage-showcase
     quay.io/repository-slug: janus-idp/backstage-showcase
     backstage.io/kubernetes-id: test-backstage
-    backstage.io/kubernetes-label-selector: 'component=test-backstage,component=xyz'
+    backstage.io/kubernetes-label-selector: 'backstage-component in (test-backstage)'
     #backstage.io/kubernetes-namespace: backstage-workshop
     #backstage.io/kubernetes-namespace: deb-test
     janus-idp.io/tekton-enabled: 'false'
