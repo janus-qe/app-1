@@ -5,6 +5,7 @@ metadata:
   labels: 
     component: backstage-workloads
   annotations:
+    argocd/app-name: 'janus-idp'
     github.com/project-slug: janus-idp/backstage-showcase
     quay.io/repository-slug: janus-idp/backstage-showcase
     backstage.io/kubernetes-id: test-backstage
